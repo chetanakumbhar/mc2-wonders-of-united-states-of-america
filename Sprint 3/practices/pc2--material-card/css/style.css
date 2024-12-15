@@ -1,0 +1,66 @@
+/* Write CSS code here */
+body{
+    border: 2px solid white ;
+    width: 450px;
+    height: 550px;
+    box-shadow: 4px 4px 7px 2px rgba(0,0,0,0.4);
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+#id{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    font-family:serif;
+    left: 5px;
+    top: 15px;
+    color: rgb(75, 0, 128);
+}
+h3{
+    font-size: 28px;
+    block-size: auto;
+    position: relative;
+    top: 20px;
+    left: 25px;
+    font-family: Franklin Gothic Medium;
+
+}
+img{
+    position: relative;
+    top: -23px;
+    right: 2px;
+    width: 454px;
+
+}
+.s{
+    font-family:sans-serif;
+    font-size: 18px;
+    color: grey;
+    position: relative;
+    top: -15px;
+    left: 10px;
+}
+#s1{
+    font-size: 15px;
+    color: grey;
+    position: relative;
+    top: -10px;
+    letter-spacing: 0.2px;
+    font-family: Franklin Gothic Medium;
+    left: 25px;
+}
+.i{
+    float: left;
+    font-size: 5em;
+    margin-left: 23px;
+}
+.i1{
+    float: right;
+    position: relative;
+    font-size: 1.5em;
+    letter-spacing: 8px;
+    color: gray;
+    right: 15px;
+}

@@ -1,28 +1,49 @@
-# The Tasty Delights
+# The Wonders Of America
 
-## Context
+Our world is filled with the most unique structures that are both man-made and natural. Some of the man-made creations include churches, tombs, temples, monuments, mosques, buildings and even cities. These structures have withstood the test of time and they continue to leave many awestruck with their brilliance. There are many in the world, but only few are selected, which are deemed to be the best.
 
-Stevan Grace, master chef and author, runs The Tasty Delights Restaurant with his family in Lowell, Massachusetts. He wants to widen his business by increasing their visibility among web customers and hence planned to create a simple website to attract them.
+## Problem Statement
 
-With a clean and simple design, the website should draw all its viewers’ attention to the food. The backgrounds are dark with fonts in pale light shades. This shall make the images of their food the sharpest and brightest colours on the page, naturally making them stand out. 
+Create a human-readable and machine-readable document using the HTML5 semantic elements that lists down wonders of the United States of America​​.
 
-As the first step, you are required to create a simple web page to highlight the restaurant details in a simple, elegant manner to attract the web customers.
+Being a developer you are assigned with the task of creating a web page that resembles the below image.
+![](./wonders-of-america.png)
 
-### Problem Statement
-
-Create a replica of a simple web page as shared in the image below.
-
-![](./The-Tasty-Delights.png)
 
 ### Tasks
+- The solution for this challenge can be developed in 3 stages:​
+    - Stage 1:: Create Header
+    - Stage 2:: Create Main Content section
+    - Stage 3:: Create footer 
+- Edit index.html file to add various semantic HTML elements to get the page output as shown in the image.
+- Use appropriate semantic elements to accomplish this outcome based on the practices performed earlier.
+- Following are the text used:
+```
+Brooklyn Bridge
 
-- This practice is an extension to Sprint 1 – Practice 2 – The Tasty Delights.​
-- The web page created for The Tasty Delights need to be styled.​
-- The solution for this practice can be developed in 4 stages:​​​
-    - Stage 1 :: Define styles in styles.css file located in css folder of the boilerplate​​​
-    - Stage 2 :: Link the styles.css file with index.html​​ using <link> tag​
-    - Stage 3 :: Link the google font stylesheet with index.html using <link> tag​
-      <link href="https://fonts.googleapis.com/css2?family=Fraunces" rel="stylesheet">​
-    - Stage 4 :: Apply styles defined using class or id selector to the page elements
+The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City, spanning the East River between the boroughs of Manhattan and Brooklyn. Opened on May 24, 1883, the Brooklyn Bridge was the first fixed crossing of the East River. It was also the longest suspension bridge in the world at the time of its opening, with a main span of 1,595.5 feet (486.3 m) and a deck 127 ft (38.7 m) above mean high water. The span was originally called the New York and Brooklyn Bridge or the East River Bridge but was officially renamed the Brooklyn Bridge in 1915.Read more..
+
+https://en.wikipedia.org/wiki/Brooklyn_Bridge
+Photo:Brooklyn Bridge
+
+Hoover Dam
+
+Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. It was constructed between 1931 and 1936 during the Great Depression and was dedicated on September 30, 1935, by President Franklin D. Roosevelt. Its construction was the result of a massive effort involving thousands of workers, and cost over one hundred lives.Read more..
+
+https://en.wikipedia.org/wiki/Hoover_Dam
+Photo:Hoover Dam
+
+Site Terms
+Privacy Policy
+State Disclosures
+Copyright All State Corp
+
+```
+    
+
+
+
+
+
 
 
